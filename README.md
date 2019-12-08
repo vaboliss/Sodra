@@ -16,6 +16,8 @@ also there should be an ability to export it to .csv file.
  
  1. You will need xampp to start it
  2. Create a folder in your htdocs folder called ba4 (There can be some problems with paths)
- 3. Place all files to it. 
- 4. download front end from https://github.com/vaboliss/SodraFrontEnd
- 5. npm start frontend
+ 3. Place all files to it.
+ 4. Create a database called Sodra.
+ 5. Create a table called Imones from databaseT.sql
+ 6. download front end from https://github.com/vaboliss/SodraFrontEnd
+ 7. npm start frontend
